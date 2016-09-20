@@ -1,4 +1,4 @@
 # VueJS
 ( ˘•灬•˘ ) vue vue vue
 
-> http://www.imooc.com/learn/694
+> http://cn.vuejs.org/
