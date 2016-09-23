@@ -1,4 +1,5 @@
 # VueJS
 ( ˘•灬•˘ ) vue vue vue
 
-> http://cn.vuejs.org/
+> 技术文档 http://cn.vuejs.org/
+> todolist http://www.imooc.com/learn/694
